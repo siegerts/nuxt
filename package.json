@@ -34,7 +34,7 @@
     "@nuxt/webpack-builder": "workspace:*",
     "nuxt": "workspace:*",
     "vite": "4.5.0",
-    "vue": "3.3.7",
+    "vue": "3.4.0-alpha.1",
     "magic-string": "^0.30.5"
   },
   "devDependencies": {
